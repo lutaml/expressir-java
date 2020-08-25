@@ -1,4 +1,4 @@
-= EXPRESS grammar in ANTLR4
+= Expressir in Java
 
 //image:https://github.com/lutaml/expressir/workflows/ubuntu/badge.svg[ubuntu]
 //image:https://github.com/lutaml/expressir/workflows/macos/badge.svg[macos]
@@ -6,12 +6,12 @@
 
 == Purpose
 
-This is the EXPRESS grammar file according to ISO 10303-11, and is
-tested to work with all ISO 10303 SMRL EXPRESS files that are
-valid.
+This is the Expressir parser in Java, generated from
+https://github.com/lutaml/express-grammar/[express-grammar v1.0].
 
-These files in SMRL have been determined to be deviated from the grammar
-and are therefore invalid.
+This has been tested to work with all ISO 10303 SMRL EXPRESS files
+that are valid.
+
 
 == Contributing
 
